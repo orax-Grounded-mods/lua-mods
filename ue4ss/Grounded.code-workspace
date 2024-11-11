@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"name": "ue4ss",
+			"path": "."
+		},
+		{
+			"name": "InitMod",
+			"path": "Mods/InitMod"
+		},
+		{
+			"name": "lua-mods-libs",
+			"path": "Mods/shared/lua-mods-libs"
+		},
+		{
+			"name": "TestsMod",
+			"path": "Mods/TestsMod"
+		},
+		{
+			"name": "YetAnotherCheatMod",
+			"path": "Mods/YetAnotherCheatMod"
+		}
+	],
+	"settings": {
+		"Lua.diagnostics.ignoredFiles": "Disable"
+	}
+}
